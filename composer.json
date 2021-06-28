@@ -1,0 +1,5 @@
+{
+    "require": {
+        "craftsys/msg91-laravel": "^0.12.0"
+    }
+}

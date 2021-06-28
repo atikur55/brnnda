@@ -1,0 +1,52 @@
+/* laravel code */
+
+1. https://chabikathi.essential-infotech.com/api/aa/category_api
+Route::get('{at}/category_api', 'Api\FrontendApiController@categoryApi');
+
+2. https://chabikathi.essential-infotech.com/api/aa/featured_api
+Route::get('{at}/featured_api', 'Api\FrontendApiController@featuredApi');
+
+3. https://chabikathi.essential-infotech.com/api/aa/bottom_small_banners_api
+Route::get('{at}/bottom_small_banners_api', 'Api\FrontendApiController@bottomSmallBannersApi');
+
+4. https://chabikathi.essential-infotech.com/api/aa/reviews_api
+Route::get('{at}/reviews_api', 'Api\FrontendApiController@reviewsApi');
+
+5. https://chabikathi.essential-infotech.com/api/aa/discount_products_api
+Route::get('{at}/discount_products_api', 'Api\FrontendApiController@discountProductsApi');
+
+6. https://chabikathi.essential-infotech.com/api/aa/best_products_api
+Route::get('{at}/best_products_api', 'Api\FrontendApiController@bestProductsApi');
+
+7. https://chabikathi.essential-infotech.com/api/aa/top_products_api
+Route::get('{at}/top_products_api', 'Api\FrontendApiController@topProductsApi');
+
+
+8. https://chabikathi.essential-infotech.com/api/aa/big_products_api
+Route::get('{at}/big_products_api', 'Api\FrontendApiController@bigProductsApi');
+
+
+9. https://chabikathi.essential-infotech.com/api/aa/hot_products_api
+Route::get('{at}/hot_products_api', 'Api\FrontendApiController@hotProductsApi');
+
+10. https://chabikathi.essential-infotech.com/api/aa/latest_products_api
+Route::get('{at}/latest_products_api', 'Api\FrontendApiController@latestProductsApi');
+
+11. https://chabikathi.essential-infotech.com/api/aa/trending_products_api
+Route::get('{at}/trending_products_api', 'Api\FrontendApiController@trendingProductsApi');
+
+12. https://chabikathi.essential-infotech.com/api/aa/sales_products_api
+Route::get('{at}/sales_products_api', 'Api\FrontendApiController@salesProductsApi');
+
+13. Route::get('{at}/single_products_api/{slug}', 'Api\FrontendApiController@singleProductsApi');
+Route::get('{at}/single_products_api/{slug}', 'Api\FrontendApiController@singleProductsApi');
+
+14. https://chabikathi.essential-infotech.com/api/aa/top_slider_banner_api
+Route::get('{at}/top_slider_banner_api', 'Api\FrontendApiController@topSliderBannerApi');
+
+Date: 1/13/2021 time: 3:25PM
+15. https://chabikathi.essential-infotech.com/test/api/aa/flashed_products_api
+Route::get('{at}/flashed_products_api', 'Api\FrontendApiController@flashedApi');
+
+/* Api url */
+
